@@ -1,10 +1,8 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+### Hi I'm Allan 👋
+I am a Dynamics 365 developer and AI and Game Development enthusiastic.
+- 🔭 I’m currently working at Bizapp as a Dynamics 365 Developer.
+- 🌱 I’m currently learning Python for A.I and Forensics in computer.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=allansmora)
 
