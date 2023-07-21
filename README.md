@@ -18,7 +18,7 @@ I am a Dynamics 365 developer and AI and Game Development enthusiastic.
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=allansmora&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/allansmora)   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/USERNAME/](https://www.linkedin.com/in/allan-moura-a3155a127/)) <div>
-<a href="[https://www.youtube.com/@ITwithAllan/featured" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/allansmora)   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/allan-moura-a3155a127/) <div>
+<a href="(https://www.youtube.com/@ITwithAllan/featured)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
    
 </div>
